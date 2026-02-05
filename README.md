@@ -7,7 +7,6 @@
 
 ## 2. Key Visualizations
 ![Wajima](Wajima.png)
-*(Please replace `YOUR_IMAGE_LINK_HERE` with your actual image URL)*
 
 > **Figure 1: Coverage Gap Analysis.**
 > * 🟦 **Blue dots:** Areas covered by official shelters.
