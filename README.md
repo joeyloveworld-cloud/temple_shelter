@@ -6,7 +6,7 @@
 * **Method:** Calculated the **15-minute walking range (720m)** for both official shelters and temples using OpenStreetMap road networks.
 
 ## 2. Key Visualizations
-![Wajima]
+![Wajima](Wajima.png)
 *(Please replace `YOUR_IMAGE_LINK_HERE` with your actual image URL)*
 
 > **Figure 1: Coverage Gap Analysis.**
