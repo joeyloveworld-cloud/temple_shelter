@@ -1,4 +1,4 @@
-# Using Temples for Disaster Relief: A GIS Analysis in Wajima City (PoC, Validation of feasibility)
+# Using Temples for Disaster Relief: A GIS Analysis in Wajima City (PoC, Validation of Feasibility)
 
 ## 1. Project Overview
 * **Goal:** To verify if Buddhist temples can serve as **"Emergency Shelters"** in aging communities.
